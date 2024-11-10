@@ -58,6 +58,6 @@ To use the recommendation system, follow these steps:
 
 ## Acknowledgements
 
-This analysis was submitted as part of the **Introduction to Machine Learning course, Spring 2024** under the supervison of **[Dr.Inas Yassine](https://www.linkedin.com/in/inas-yassine-15ab4b4/?originalSubdomain=eg)** and **[ENG. Merna Bibars](https://merna-atef.github.io/).
+This analysis was submitted as part of the **SBE3021 AI in Medical Fields course, Spring 2024** under the supervison of **[Dr.Inas Yassine](https://www.linkedin.com/in/inas-yassine-15ab4b4/?originalSubdomain=eg)** and **[ENG. Merna Bibars](https://merna-atef.github.io/).
 
 
